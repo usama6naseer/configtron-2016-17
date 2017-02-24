@@ -1,0 +1,1 @@
+nohup python multi_test.py > /home/usama/proxitron/primus_server/log 2>&1 &
